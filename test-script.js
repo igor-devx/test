@@ -1,5 +1,5 @@
-window.onload = function() {
+"window.onload = function() {
     console.log("Hello")
     alert("hello!");
     
-}
+}"
